@@ -51,3 +51,6 @@ The Note class creates a note for a track. It has a constructor that takes the f
 - Support for MIDI files.
 - Add support for effects.
 - Add more functionality and improve the existing one.
+## Example use
+Presented in the `drum_pattern.py`
+
